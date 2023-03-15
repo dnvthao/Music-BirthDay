@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dnvthao/Music-BirthDay.git/static/css/main.2b82baf1.css",
+    "main.js": "/dnvthao/Music-BirthDay.git/static/js/main.f76e27d6.js",
+    "static/media/Happy BirthDay To Phuc.mp3": "/dnvthao/Music-BirthDay.git/static/media/Happy BirthDay To Phuc.a0a261f0d0cb3b23aa0c.mp3",
+    "static/media/SinhNhat-HieuMonday.mp3": "/dnvthao/Music-BirthDay.git/static/media/SinhNhat-HieuMonday.702f527534e123a977b2.mp3",
+    "static/media/BirhDay - Somi.mp3": "/dnvthao/Music-BirthDay.git/static/media/BirhDay - Somi.fe8a5981e8b66d81a998.mp3",
+    "static/media/sn3.jpg": "/dnvthao/Music-BirthDay.git/static/media/sn3.768f937036fdc685bae3.jpg",
+    "static/media/SN.jpg": "/dnvthao/Music-BirthDay.git/static/media/SN.69c8dc3cf46e9c3e594d.jpg",
+    "static/media/bg03.jpg": "/dnvthao/Music-BirthDay.git/static/media/bg03.1a99c243db8e99df0b9a.jpg",
+    "static/media/sn2.jpg": "/dnvthao/Music-BirthDay.git/static/media/sn2.63bd1080c5743a230fda.jpg",
+    "index.html": "/dnvthao/Music-BirthDay.git/index.html",
+    "main.2b82baf1.css.map": "/dnvthao/Music-BirthDay.git/static/css/main.2b82baf1.css.map",
+    "main.f76e27d6.js.map": "/dnvthao/Music-BirthDay.git/static/js/main.f76e27d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b82baf1.css",
+    "static/js/main.f76e27d6.js"
+  ]
+}
