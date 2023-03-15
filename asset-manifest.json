@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Music-BirthDay/static/css/main.35188f6f.css",
-    "main.js": "/Music-BirthDay/static/js/main.10fd41ff.js",
+    "main.js": "/Music-BirthDay/static/js/main.b62d6952.js",
     "static/media/Happy BirthDay To Phuc.mp3": "/Music-BirthDay/static/media/Happy BirthDay To Phuc.a0a261f0d0cb3b23aa0c.mp3",
     "static/media/SinhNhat-HieuMonday.mp3": "/Music-BirthDay/static/media/SinhNhat-HieuMonday.702f527534e123a977b2.mp3",
     "static/media/BirhDay - Somi.mp3": "/Music-BirthDay/static/media/BirhDay - Somi.fe8a5981e8b66d81a998.mp3",
@@ -11,10 +11,10 @@
     "static/media/sn2.jpg": "/Music-BirthDay/static/media/sn2.63bd1080c5743a230fda.jpg",
     "index.html": "/Music-BirthDay/index.html",
     "main.35188f6f.css.map": "/Music-BirthDay/static/css/main.35188f6f.css.map",
-    "main.10fd41ff.js.map": "/Music-BirthDay/static/js/main.10fd41ff.js.map"
+    "main.b62d6952.js.map": "/Music-BirthDay/static/js/main.b62d6952.js.map"
   },
   "entrypoints": [
     "static/css/main.35188f6f.css",
-    "static/js/main.10fd41ff.js"
+    "static/js/main.b62d6952.js"
   ]
 }
